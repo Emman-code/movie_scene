@@ -1,4 +1,4 @@
 streamlit 
 google-generativeai
-reportlabs
+reportlab
 gTTS
